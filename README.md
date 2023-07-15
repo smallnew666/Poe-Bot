@@ -1,4 +1,5 @@
 # Poe-Bot
+<a href="https://github.com/smallnew666/Poe-Bot/blob/main/README_en.md">English</a>
 
 Poe-Bot 是一个利用 poe-api 使用 python gradio 框架开发的聊天机器人/Poe-Bot is a chatbot developed using the python gradio framework that leverages the poe-api.
 <img width="1352" alt="截屏2023-07-15 12 34 54" src="https://github.com/smallnew666/Poe-Bot/assets/24582880/67d18969-29a4-4ba9-9e26-11e42ee2a2ca">

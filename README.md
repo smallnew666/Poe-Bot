@@ -1,6 +1,7 @@
 # Poe-Bot
 
 Poe-Bot 是一个利用 poe-api 使用 python gradio 框架开发的聊天机器人/Poe-Bot is a chatbot developed using the python gradio framework that leverages the poe-api.
+<img width="1352" alt="截屏2023-07-15 12 34 54" src="https://github.com/smallnew666/Poe-Bot/assets/24582880/67d18969-29a4-4ba9-9e26-11e42ee2a2ca">
 
 # 项目描述
 
@@ -29,7 +30,6 @@ git clone https://github.com/smallnew666/Poe-Bot.git
 
 ```
 cd Poe-Bot
-
 ```
 
 安装需要的依赖:
@@ -38,7 +38,6 @@ cd Poe-Bot
 
 ```
 pip install -r requirements.txt
-
 ```
 
 设置 token
@@ -53,7 +52,6 @@ Chromium: Devtools > Application > Cookies > poe.com
 
 ```
 bot = PoeChatBot('your token')#your poe token
-
 ```
 
 安装项目依赖
@@ -62,7 +60,6 @@ bot = PoeChatBot('your token')#your poe token
 
 ```
 pip install -r requirements.txt
-
 ```
 
 运行
@@ -70,7 +67,6 @@ pip install -r requirements.txt
 
 ```
 python app.py
-
 ```
 
 
